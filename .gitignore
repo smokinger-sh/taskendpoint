@@ -38,3 +38,14 @@ build/
 .vscode/
 *.class
 *.log
+
+target/
+.idea/
+*.iml
+.vscode/
+.env
+application-local.properties
+application-secret.*
+application.properties
+application-openai.properties
+application-secret.properties
